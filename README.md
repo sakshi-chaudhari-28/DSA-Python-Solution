@@ -1,2 +1,9 @@
-# DSA-Python-Solution
-A collection of LeetCode solutions written in Python, synced automatically using LeetSync.
+# Python LeetCode Solutions
+
+This repository contains my LeetCode problem solutions written in Python and synced automatically using LeetSync.
+
+## Goals
+- Improve problem-solving skills
+- Practice Data Structures & Algorithms
+- Prepare for coding interviews
+- Track consistency in coding practice
